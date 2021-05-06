@@ -1,0 +1,4 @@
+Loading BuildTools version: git-BuildTools-36c11e9-126 (#126)
+Java Version: Java 11
+Current Path: /opt/minecraft/server/.
+You must run this jar through bash (msysgit)

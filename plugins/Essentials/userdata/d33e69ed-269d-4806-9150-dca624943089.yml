@@ -1,0 +1,28 @@
+lastAccountName: AlemDerGeile
+timestamps:
+  login: 1620323169615
+  logout: 1620323354124
+  lastteleport: 1619021964989
+ipAddress: 178.165.130.172
+lastlocation:
+  world: world
+  x: -1036.2741876148161
+  y: 106.0
+  z: 93.65428276447764
+  yaw: 238.26077
+  pitch: 15.315378
+logoutlocation:
+  world: world
+  x: -967.745209991349
+  y: 66.19754907290954
+  z: 90.9950078679548
+  yaw: 356.498
+  pitch: -9.55751
+homes:
+  home:
+    world: world
+    x: -1033.1938831539762
+    y: 106.0
+    z: 90.52145235854472
+    yaw: 114.36075
+    pitch: 25.515375

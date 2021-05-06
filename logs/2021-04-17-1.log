@@ -1,0 +1,1135 @@
+[00:34:49] [Server thread/INFO]: [SimpleBackup] Backup starting
+[00:34:49] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[00:34:49] [Craft Scheduler Thread - 57/INFO]: [SimpleBackup] Backing up ./world
+[00:34:58] [Craft Scheduler Thread - 57/INFO]: [SimpleBackup] Backing up ./world_nether
+[00:34:59] [Craft Scheduler Thread - 57/INFO]: [SimpleBackup] Backing up ./world_the_end
+[00:34:59] [Server thread/INFO]: [SimpleBackup] Backup completed
+[01:34:49] [Craft Scheduler Thread - 73/INFO]: [SimpleBackup] Skipping backup (no one was online)
+[02:34:49] [Craft Scheduler Thread - 90/INFO]: [SimpleBackup] Skipping backup (no one was online)
+[03:34:49] [Craft Scheduler Thread - 106/INFO]: [SimpleBackup] Skipping backup (no one was online)
+[04:34:49] [Craft Scheduler Thread - 123/INFO]: [SimpleBackup] Skipping backup (no one was online)
+[05:34:49] [Craft Scheduler Thread - 139/INFO]: [SimpleBackup] Skipping backup (no one was online)
+[06:34:49] [Craft Scheduler Thread - 156/INFO]: [SimpleBackup] Skipping backup (no one was online)
+[07:34:49] [Craft Scheduler Thread - 172/INFO]: [SimpleBackup] Skipping backup (no one was online)
+[08:34:49] [Craft Scheduler Thread - 189/INFO]: [SimpleBackup] Skipping backup (no one was online)
+[09:34:49] [Craft Scheduler Thread - 205/INFO]: [SimpleBackup] Skipping backup (no one was online)
+[10:34:49] [Craft Scheduler Thread - 222/INFO]: [SimpleBackup] Skipping backup (no one was online)
+[11:34:49] [Craft Scheduler Thread - 238/INFO]: [SimpleBackup] Skipping backup (no one was online)
+[12:22:40] [User Authenticator #8/INFO]: UUID of player FranzPeterLustig is 7fac3a97-b9ef-4130-95c4-56f17c787212
+[12:22:40] [Server thread/INFO]: FranzPeterLustig joined the game
+[12:22:40] [Server thread/INFO]: FranzPeterLustig[/178.165.129.1:43787] logged in with entity id 16775 at ([world]-980.058665257065, 66.0, 67.64954442528878)
+[12:25:32] [User Authenticator #9/INFO]: UUID of player EvilAntiSmiley is c811ffa1-cfcd-44bf-a87c-64a8a0cc7518
+[12:25:32] [Server thread/INFO]: EvilAntiSmiley joined the game
+[12:25:32] [Server thread/INFO]: EvilAntiSmiley[/178.165.131.123:43277] logged in with entity id 17282 at ([world]-956.6952170428495, 73.0, 76.99281508299099)
+[12:26:07] [User Authenticator #9/INFO]: UUID of player EvilAntiSmiley is c811ffa1-cfcd-44bf-a87c-64a8a0cc7518
+[12:26:07] [Server thread/INFO]: EvilAntiSmiley lost connection: You logged in from another location
+[12:26:07] [Server thread/INFO]: EvilAntiSmiley left the game
+[12:26:07] [Server thread/INFO]: EvilAntiSmiley joined the game
+[12:26:07] [Server thread/INFO]: EvilAntiSmiley[/178.165.129.222:6076] logged in with entity id 17341 at ([world]-956.6952170428495, 73.0, 76.99281508299099)
+[12:32:29] [User Authenticator #10/INFO]: UUID of player SryForBeingGray is af6718ae-82b8-4c41-a28e-a555707fa868
+[12:32:29] [Server thread/INFO]: SryForBeingGray joined the game
+[12:32:29] [Server thread/INFO]: SryForBeingGray[/178.165.129.222:6050] logged in with entity id 18115 at ([world]-1005.2821742291455, 70.0, 89.99442015427903)
+[12:34:48] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[12:34:49] [Server thread/INFO]: [SimpleBackup] Backup starting
+[12:34:49] [Craft Scheduler Thread - 255/INFO]: [SimpleBackup] Backing up ./world
+[12:34:58] [Craft Scheduler Thread - 255/INFO]: [SimpleBackup] Backing up ./world_nether
+[12:34:59] [Craft Scheduler Thread - 255/INFO]: [SimpleBackup] Backing up ./world_the_end
+[12:34:59] [Server thread/INFO]: [SimpleBackup] Backup completed
+[12:44:43] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[12:54:23] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[13:00:18] [Server thread/INFO]: SryForBeingGray issued server command: /deop FranzPeterLustig
+[13:00:29] [Server thread/INFO]: SryForBeingGray issued server command: /op FranzPeterLustig
+[13:00:47] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode creative FranzPeterLustig
+[13:01:17] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode survival FranzPeterLustig
+[13:02:25] [Server thread/INFO]: FranzPeterLustig lost connection: Timed out
+[13:02:25] [Server thread/INFO]: FranzPeterLustig left the game
+[13:03:20] [User Authenticator #11/INFO]: UUID of player FranzPeterLustig is 7fac3a97-b9ef-4130-95c4-56f17c787212
+[13:03:21] [Server thread/INFO]: FranzPeterLustig joined the game
+[13:03:21] [Server thread/INFO]: FranzPeterLustig[/178.165.129.1:4096] logged in with entity id 23725 at ([world]-973.3186382921627, 64.0, 66.92435592729812)
+[13:03:29] [Async Chat Thread - #0/INFO]: <SryForBeingGray> welcum back
+[13:04:03] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[13:08:21] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode creative
+[13:08:29] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode survival
+[13:10:01] [Server thread/INFO]: EvilAntiSmiley lost connection: Disconnected
+[13:10:01] [Server thread/INFO]: EvilAntiSmiley left the game
+[13:12:34] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode creative
+[13:12:39] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode survival
+[13:13:10] [Server thread/INFO]: FranzPeterLustig issued server command: /gamemode3
+[13:13:26] [Server thread/INFO]: FranzPeterLustig issued server command: /gamemode4
+[13:13:31] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode creative
+[13:13:58] [Server thread/INFO]: FranzPeterLustig issued server command: /gamemode creative
+[13:14:13] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[13:14:50] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode survival
+[13:18:04] [Server thread/INFO]: SryForBeingGray issued server command: //set minecraft:polished_diorite_slab
+[13:18:14] [Server thread/INFO]: SryForBeingGray issued server command: //set minecraft:polished_diorite_slab:2
+[13:18:24] [Server thread/INFO]: SryForBeingGray issued server command: //set minecraft:polished_diorite_slab
+[13:18:26] [Server thread/INFO]: SryForBeingGray issued server command: //set minecraft:polished_diorite_slab
+[13:18:37] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[13:18:51] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode creative
+[13:19:55] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode survival
+[13:20:30] [Server thread/INFO]: SryForBeingGray issued server command: //copy
+[13:20:43] [Server thread/INFO]: SryForBeingGray issued server command: //paste
+[13:20:49] [Server thread/INFO]: SryForBeingGray issued server command: //paste
+[13:21:01] [Server thread/INFO]: SryForBeingGray issued server command: //paste
+[13:21:26] [Server thread/INFO]: SryForBeingGray issued server command: //paste
+[13:21:58] [Server thread/INFO]: SryForBeingGray issued server command: //paste
+[13:22:30] [Server thread/INFO]: SryForBeingGray issued server command: //paste
+[13:23:09] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode creative
+[13:24:40] [Server thread/INFO]: SryForBeingGray issued server command: //set minecraft:spruce_planks
+[13:25:03] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[13:25:25] [Server thread/INFO]: FranzPeterLustig has made the advancement [Take Aim]
+[13:27:12] [Server thread/INFO]: SryForBeingGray issued server command: //set water
+[13:27:15] [Server thread/INFO]: SryForBeingGray issued server command: //undo
+[13:27:21] [Server thread/INFO]: SryForBeingGray issued server command: //set water
+[13:27:27] [Server thread/INFO]: SryForBeingGray issued server command: //set water
+[13:27:31] [Server thread/INFO]: SryForBeingGray issued server command: //set water
+[13:28:40] [Server thread/INFO]: SryForBeingGray issued server command: //set minecraft:spruce_planks
+[13:31:52] [Server thread/INFO]: SryForBeingGray issued server command: //set water
+[13:32:12] [Server thread/INFO]: SryForBeingGray issued server command: //set water
+[13:32:18] [Server thread/INFO]: SryForBeingGray issued server command: //set water
+[13:32:20] [Server thread/INFO]: SryForBeingGray issued server command: //set water
+[13:34:49] [Server thread/INFO]: [SimpleBackup] Backup starting
+[13:34:49] [Craft Scheduler Thread - 271/INFO]: [SimpleBackup] Backing up ./world
+[13:34:58] [Craft Scheduler Thread - 271/INFO]: [SimpleBackup] Backing up ./world_nether
+[13:35:00] [Craft Scheduler Thread - 271/INFO]: [SimpleBackup] Backing up ./world_the_end
+[13:35:00] [Server thread/INFO]: [SimpleBackup] Backup completed
+[13:36:13] [Server thread/INFO]: SryForBeingGray issued server command: //replace 0 water
+[13:37:30] [Server thread/INFO]: SryForBeingGray issued server command: //replace 0 water
+[13:37:35] [Server thread/INFO]: SryForBeingGray issued server command: //replace 0 water
+[13:37:44] [Server thread/INFO]: SryForBeingGray issued server command: //replace 0 water
+[13:37:52] [Server thread/INFO]: SryForBeingGray issued server command: //set water
+[13:38:33] [Server thread/INFO]: SryForBeingGray issued server command: /butcher
+[13:41:00] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[13:42:47] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[14:00:51] [Server thread/INFO]: SryForBeingGray issued server command: //copy
+[14:00:54] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[14:01:23] [Server thread/INFO]: SryForBeingGray issued server command: //paste
+[14:02:21] [Server thread/INFO]: SryForBeingGray issued server command: //copy
+[14:21:40] [User Authenticator #12/INFO]: UUID of player EvilAntiSmiley is c811ffa1-cfcd-44bf-a87c-64a8a0cc7518
+[14:21:40] [Server thread/INFO]: EvilAntiSmiley joined the game
+[14:21:40] [Server thread/INFO]: EvilAntiSmiley[/178.165.129.222:2299] logged in with entity id 31422 at ([world]-973.4230969108685, 68.0, 90.51776144669198)
+[14:22:10] [Server thread/INFO]: EvilAntiSmiley issued server command: /gamemode creative
+[14:24:22] [Server thread/INFO]: SryForBeingGray issued server command: /tp FranzPeterLustig
+[14:25:46] [Server thread/INFO]: SryForBeingGray issued server command: //copy
+[14:25:48] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[14:25:53] [Server thread/INFO]: SryForBeingGray issued server command: //paste
+[14:34:49] [Server thread/INFO]: [SimpleBackup] Backup starting
+[14:34:49] [Craft Scheduler Thread - 288/INFO]: [SimpleBackup] Backing up ./world
+[14:34:58] [Craft Scheduler Thread - 288/INFO]: [SimpleBackup] Backing up ./world_nether
+[14:34:59] [Craft Scheduler Thread - 288/INFO]: [SimpleBackup] Backing up ./world_the_end
+[14:34:59] [Server thread/INFO]: [SimpleBackup] Backup completed
+[14:42:21] [Server thread/INFO]: SryForBeingGray lost connection: Timed out
+[14:42:21] [Server thread/INFO]: SryForBeingGray left the game
+[14:42:22] [Server thread/INFO]: EvilAntiSmiley lost connection: Timed out
+[14:42:22] [Server thread/INFO]: EvilAntiSmiley left the game
+[14:43:57] [User Authenticator #13/INFO]: UUID of player EvilAntiSmiley is c811ffa1-cfcd-44bf-a87c-64a8a0cc7518
+[14:43:58] [Server thread/INFO]: EvilAntiSmiley joined the game
+[14:43:58] [Server thread/INFO]: EvilAntiSmiley[/91.141.1.123:2663] logged in with entity id 33860 at ([world]-965.7102915390296, 66.0, 33.49113577096955)
+[14:46:33] [Server thread/INFO]: EvilAntiSmiley lost connection: Disconnected
+[14:46:33] [Server thread/INFO]: EvilAntiSmiley left the game
+[14:49:57] [User Authenticator #14/INFO]: UUID of player EvilAntiSmiley is c811ffa1-cfcd-44bf-a87c-64a8a0cc7518
+[14:49:57] [Server thread/INFO]: EvilAntiSmiley joined the game
+[14:49:57] [Server thread/INFO]: EvilAntiSmiley[/178.112.27.231:57942] logged in with entity id 34355 at ([world]-947.5764489487724, 69.18301278206567, 31.3177848274529)
+[14:55:07] [Server thread/INFO]: EvilAntiSmiley issued server command: /tag panda
+[14:58:46] [Server thread/INFO]: FranzPeterLustig lost connection: Timed out
+[14:58:46] [Server thread/INFO]: FranzPeterLustig left the game
+[14:59:25] [User Authenticator #15/INFO]: UUID of player FranzPeterLustig is 7fac3a97-b9ef-4130-95c4-56f17c787212
+[14:59:25] [Server thread/INFO]: FranzPeterLustig joined the game
+[14:59:25] [Server thread/INFO]: FranzPeterLustig[/178.165.129.1:45036] logged in with entity id 35187 at ([world]-952.7112853406232, 84.44955980328744, 86.68828772429569)
+[15:19:25] [User Authenticator #16/INFO]: UUID of player SryForBeingGray is af6718ae-82b8-4c41-a28e-a555707fa868
+[15:19:25] [Server thread/INFO]: SryForBeingGray joined the game
+[15:19:25] [Server thread/INFO]: SryForBeingGray[/178.112.27.231:38579] logged in with entity id 37092 at ([world]-962.3000000119209, 81.0, 78.87610670579987)
+[15:19:31] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[15:33:31] [Server thread/INFO]: SryForBeingGray issued server command: /gamerule randomTickSpeed
+[15:33:50] [Server thread/INFO]: SryForBeingGray issued server command: /gamerule sendCommandFeedback true
+[15:33:52] [Server thread/INFO]: SryForBeingGray issued server command: /gamerule randomTickSpeed
+[15:33:56] [Server thread/INFO]: SryForBeingGray issued server command: /gamerule randomTickSpeed 10000
+[15:34:09] [Server thread/INFO]: SryForBeingGray issued server command: /gamerule randomTickSpeed 0
+[15:34:16] [Server thread/INFO]: SryForBeingGray issued server command: /gamerule randomTickSpeed 3
+[15:34:49] [Server thread/INFO]: [SimpleBackup] Backup starting
+[15:34:49] [Craft Scheduler Thread - 304/INFO]: [SimpleBackup] Backing up ./world
+[15:34:58] [Craft Scheduler Thread - 304/INFO]: [SimpleBackup] Backing up ./world_nether
+[15:35:00] [Craft Scheduler Thread - 304/INFO]: [SimpleBackup] Backing up ./world_the_end
+[15:35:00] [Server thread/INFO]: [SimpleBackup] Backup completed
+[15:39:11] [Server thread/INFO]: SryForBeingGray issued server command: /gamerule randomTickSpeed 0
+[15:44:17] [Server thread/INFO]: SryForBeingGray issued server command: /reload
+[15:44:17] [Server thread/INFO]: SryForBeingGray: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[15:44:20] [Server thread/INFO]: SryForBeingGray issued server command: /reload confirm
+[15:44:20] [Server thread/INFO]: SryForBeingGray: Please note that this command is not supported and may cause issues when using some plugins.
+[15:44:20] [Server thread/INFO]: SryForBeingGray: If you encounter any issues please use the /stop command to restart your server.
+[15:44:20] [Server thread/INFO]: Debug logging is disabled
+[15:44:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:44:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:44:20] [Server thread/ERROR]: Could not save paper.yml
+java.io.FileNotFoundException: paper.yml (Permission denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:67) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperConfig.readConfig(PaperConfig.java:122) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperConfig.init(PaperConfig.java:76) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.reload(CraftServer.java:866) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.Bukkit.reload(Bukkit.java:726) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:810) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2168) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1983) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1936) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:50) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:8) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:35) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1262) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1255) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1216) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:289) ~[patched_1.16.5.jar:git-Paper-594]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[15:44:20] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:44:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:44:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:44:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:44:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:44:20] [Server thread/INFO]: Max TNT Explosions: 100
+[15:44:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:44:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:44:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:44:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:44:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:44:20] [Server thread/INFO]: View Distance: 10
+[15:44:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:44:20] [Server thread/INFO]: Mob Spawn Range: 6
+[15:44:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:44:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:44:20] [Server thread/ERROR]: Could not save paper.yml
+java.io.FileNotFoundException: paper.yml (Permission denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:67) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperConfig.readConfig(PaperConfig.java:122) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperWorldConfig.init(PaperWorldConfig.java:41) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.reload(CraftServer.java:900) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.Bukkit.reload(Bukkit.java:726) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:810) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2168) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1983) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1936) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:50) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:8) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:35) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1262) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1255) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1216) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:289) ~[patched_1.16.5.jar:git-Paper-594]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[15:44:20] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:44:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:44:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:44:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:44:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:44:20] [Server thread/INFO]: Max TNT Explosions: 100
+[15:44:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:44:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:44:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:44:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:44:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:44:20] [Server thread/INFO]: View Distance: 10
+[15:44:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:44:20] [Server thread/INFO]: Mob Spawn Range: 6
+[15:44:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:44:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:44:20] [Server thread/ERROR]: Could not save paper.yml
+java.io.FileNotFoundException: paper.yml (Permission denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:67) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperConfig.readConfig(PaperConfig.java:122) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperWorldConfig.init(PaperWorldConfig.java:41) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.reload(CraftServer.java:900) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.Bukkit.reload(Bukkit.java:726) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:810) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2168) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1983) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1936) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:50) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:8) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:35) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1262) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1255) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1216) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:289) ~[patched_1.16.5.jar:git-Paper-594]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[15:44:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:44:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:44:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:44:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:44:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:44:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:44:20] [Server thread/INFO]: Max TNT Explosions: 100
+[15:44:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:44:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:44:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:44:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:44:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:44:20] [Server thread/INFO]: View Distance: 10
+[15:44:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:44:20] [Server thread/INFO]: Mob Spawn Range: 6
+[15:44:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:44:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:44:20] [Server thread/ERROR]: Could not save paper.yml
+java.io.FileNotFoundException: paper.yml (Permission denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:67) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperConfig.readConfig(PaperConfig.java:122) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperWorldConfig.init(PaperWorldConfig.java:41) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.reload(CraftServer.java:900) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.Bukkit.reload(Bukkit.java:726) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:810) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2168) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1983) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1936) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:50) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:8) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:35) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1262) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1255) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1216) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:289) ~[patched_1.16.5.jar:git-Paper-594]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[15:44:20] [Server thread/INFO]: [SkQuery] Disabling SkQuery v4.1.3
+[15:44:20] [Server thread/INFO]: [Skript] Disabling Skript v2.5
+[15:44:20] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.4+f7ff984
+[15:44:20] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[15:44:20] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.0
+[15:44:20] [Server thread/INFO]: [Timber] Disabling Timber v1.0.9
+[15:44:20] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.4+5723-e3bfc64
+[15:44:20] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[15:44:20] [Server thread/INFO]: [SimpleBackup] Disabling SimpleBackup v1.8
+[15:44:20] [Server thread/INFO]: [SimpleBackup] Disabled SimpleBackup
+[15:44:20] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[15:44:20] [Server thread/INFO]: Loaded 7 recipes
+[15:44:21] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[15:44:21] [Server thread/INFO]: Loaded 7 recipes
+[15:44:21] [Server thread/ERROR]: Could not load 'plugins/PL-Hide-1.5.18.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:170) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:148) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:389) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.reload(CraftServer.java:947) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.Bukkit.reload(Bukkit.java:726) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:810) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2168) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1983) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1936) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:50) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:8) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:35) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1262) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1255) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1216) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:289) ~[patched_1.16.5.jar:git-Paper-594]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.util.zip.ZipException: zip END header not found
+	at java.util.zip.ZipFile$Source.zerror(ZipFile.java:1581) ~[?:?]
+	at java.util.zip.ZipFile$Source.findEND(ZipFile.java:1476) ~[?:?]
+	at java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1483) ~[?:?]
+	at java.util.zip.ZipFile$Source.<init>(ZipFile.java:1288) ~[?:?]
+	at java.util.zip.ZipFile$Source.get(ZipFile.java:1251) ~[?:?]
+	at java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:732) ~[?:?]
+	at java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:849) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:247) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:177) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:348) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:319) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:285) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:158) ~[patched_1.16.5.jar:git-Paper-594]
+	... 24 more
+[15:44:21] [Server thread/ERROR]: Could not load 'plugins/InvSeePlugin.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:170) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:148) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:389) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.reload(CraftServer.java:947) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.Bukkit.reload(Bukkit.java:726) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:810) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2168) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1983) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1936) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:50) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:8) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:35) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1262) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1255) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1216) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:289) ~[patched_1.16.5.jar:git-Paper-594]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.util.zip.ZipException: zip END header not found
+	at java.util.zip.ZipFile$Source.zerror(ZipFile.java:1581) ~[?:?]
+	at java.util.zip.ZipFile$Source.findEND(ZipFile.java:1476) ~[?:?]
+	at java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1483) ~[?:?]
+	at java.util.zip.ZipFile$Source.<init>(ZipFile.java:1288) ~[?:?]
+	at java.util.zip.ZipFile$Source.get(ZipFile.java:1251) ~[?:?]
+	at java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:732) ~[?:?]
+	at java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:849) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:247) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:177) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:348) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:319) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:285) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:158) ~[patched_1.16.5.jar:git-Paper-594]
+	... 24 more
+[15:44:21] [Server thread/WARN]: Legacy plugin SimpleBackup v1.8 does not specify an api-version.
+[15:44:22] [Server thread/INFO]: [SimpleBackup] Loading SimpleBackup v1.8
+[15:44:22] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.4+5723-e3bfc64
+[15:44:22] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@334b12d9]
+[15:44:22] [Server thread/INFO]: [Timber] Loading Timber v1.0.9
+[15:44:22] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.2.0
+[15:44:22] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
+[15:44:22] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.4+f7ff984
+[15:44:22] [Server thread/INFO]: [Skript] Loading Skript v2.5
+[15:44:22] [Server thread/INFO]: [SkQuery] Loading SkQuery v4.1.3
+[15:44:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:44:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.4+5723-e3bfc64
+[15:44:22] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:44:22] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[15:44:22] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[15:44:23] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:44:23] [Server thread/INFO]: [SimpleBackup] Enabling SimpleBackup v1.8*
+[15:44:23] [Server thread/INFO]: [SimpleBackup] Worlds [CraftWorld{name=world}, CraftWorld{name=world_nether}, CraftWorld{name=world_the_end}] scheduled for backup.
+[15:44:23] [Server thread/INFO]: [SimpleBackup] Backup scheduled starting in 1.0 hours, repeat interval: 1.0 hours
+[15:44:23] [Server thread/INFO]: [SimpleBackup] Enabled.
+[15:44:23] [Server thread/INFO]: [Timber] Enabling Timber v1.0.9
+[15:44:23] [Server thread/INFO]: Timber Log Materials: [SPRUCE_LOG, BIRCH_LOG, ACACIA_LOG, OAK_LOG, DARK_OAK_LOG, JUNGLE_LOG]
+[15:44:23] [Server thread/INFO]: Timber Axe Materials: [NETHERITE_AXE, STONE_AXE, DIAMOND_AXE, GOLDEN_AXE, IRON_AXE, WOODEN_AXE]
+[15:44:23] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.0
+[15:44:23] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
+[15:44:23] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
+[15:44:23] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.2.2-b812" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[15:44:23] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[15:44:23] [Server thread/WARN]: [Multiverse-Core] Cannot load worlds.yml
+[15:44:23] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -2633325331053490328
+[15:44:23] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -2633325331053490328
+[15:44:23] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[15:44:23] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 4 Y: 30 Z: 10 P: 0 Y: 0 
+[15:44:23] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'world_nether' is located at: world_nether:4.50,33.00,11.50:0.00:0.00
+[15:44:23] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -2633325331053490328
+[15:44:23] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[15:44:24] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15:44:24] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[15:44:24] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.4+f7ff984
+[15:44:24] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:44:24] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:44:24] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[15:44:24] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[15:44:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:44:24] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[15:44:24] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[15:44:24] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[15:44:24] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[15:44:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[15:44:24] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[15:44:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[15:44:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[15:44:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[15:44:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[15:44:24] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:44:24] [Server thread/INFO]: [Skript] Enabling Skript v2.5
+[15:44:24] [ForkJoinPool.commonPool-worker-3/INFO]: [Skript] A new version of Skript is available: 2.5.3 (you're currently running 2.5)
+[15:44:24] [ForkJoinPool.commonPool-worker-3/INFO]: Download it at: <aqua><u><link:https://github.com/SkriptLang/Skript/releases/download/2.5.3/Skript.jar>https://github.com/SkriptLang/Skript/releases/download/2.5.3/Skript.jar
+[15:44:30] [Server thread/INFO]: [Skript] Loaded 128188 aliases in 5104ms
+[15:44:30] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[15:44:30] [Server thread/INFO]: [SkQuery] Enabling SkQuery v4.1.3
+[15:44:30] [Server thread/INFO]: [skQuery] Locating classes from SkQuery...
+[15:44:30] [Server thread/INFO]: [skQuery] Beginning to process a total of 139 from SkQuery
+[15:44:30] [Server thread/INFO]: [skQuery] Out of 139 classes, 137 classes were loaded from SkQuery
+[15:44:31] [Server thread/INFO]: SryForBeingGray: Reload complete.
+[15:44:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10968ms or 219 ticks behind
+[15:44:31] [Server thread/INFO]: Timings Reset
+[15:44:31] [Server thread/INFO]: [Skript] Loading variables...
+[15:44:31] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[15:44:31] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[15:44:31] [Server thread/WARN]: [Skript] No scripts were found, maybe you should write some ;) (config.sk, line 188: databases:')
+[15:44:31] [Server thread/INFO]: [Skript] Finished loading.
+[15:44:31] [Server thread/INFO]: [SuperVanish] Your current version of SuperVanish is outdated - New version: '6.2.3'; Currently: '6.2.0'
+[15:44:31] [Server thread/INFO]: SryForBeingGray issued server command: /pl
+[15:44:31] [Server thread/INFO]: SryForBeingGray issued server command: /plugins
+[15:44:44] [Server thread/INFO]: SryForBeingGray issued server command: /mv help
+[15:44:47] [Server thread/INFO]: SryForBeingGray issued server command: /mv list
+[15:45:01] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[15:45:01] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[15:45:01] [Server thread/INFO]: Stopping server
+[15:45:01] [Server thread/INFO]: [SkQuery] Disabling SkQuery v4.1.3
+[15:45:01] [Server thread/INFO]: [Skript] Disabling Skript v2.5
+[15:45:01] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.4+f7ff984
+[15:45:01] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[15:45:01] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.2.2-b812
+[15:45:01] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.0
+[15:45:01] [Server thread/INFO]: [Timber] Disabling Timber v1.0.9
+[15:45:01] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.4+5723-e3bfc64
+[15:45:01] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[15:45:01] [Server thread/INFO]: [SimpleBackup] Disabling SimpleBackup v1.8
+[15:45:01] [Server thread/INFO]: [SimpleBackup] Disabled SimpleBackup
+[15:45:01] [Server thread/INFO]: Saving players
+[15:45:01] [Server thread/INFO]: EvilAntiSmiley lost connection: Server closed
+[15:45:01] [Server thread/INFO]: EvilAntiSmiley left the game
+[15:45:01] [Server thread/INFO]: FranzPeterLustig lost connection: Server closed
+[15:45:01] [Server thread/INFO]: FranzPeterLustig left the game
+[15:45:01] [Server thread/INFO]: SryForBeingGray lost connection: Server closed
+[15:45:01] [Server thread/INFO]: SryForBeingGray left the game
+[15:45:01] [Server thread/INFO]: Saving worlds
+[15:45:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:45:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:45:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:45:02] [Server thread/INFO]: Flushing Chunk IO
+[15:45:02] [Server thread/INFO]: Closing Thread Pool
+[15:45:02] [Server thread/INFO]: Closing Server
+[15:45:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:45:09] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[15:45:10] [Worker-Main-2/INFO]: Loaded 7 recipes
+[15:45:12] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[15:45:12] [Server thread/INFO]: Loading properties
+[15:45:12] [Server thread/INFO]: This server is running Paper version git-Paper-594 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[15:45:12] [Server thread/INFO]: Debug logging is disabled
+[15:45:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:45:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:45:12] [Server thread/ERROR]: Could not save paper.yml
+java.io.FileNotFoundException: paper.yml (Permission denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:67) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperConfig.readConfig(PaperConfig.java:122) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperConfig.init(PaperConfig.java:76) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:209) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1065) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:289) ~[patched_1.16.5.jar:git-Paper-594]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[15:45:12] [Server thread/INFO]: Default game type: SURVIVAL
+[15:45:12] [Server thread/INFO]: Generating keypair
+[15:45:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:45:12] [Server thread/INFO]: Using epoll channel type
+[15:45:13] [Server thread/ERROR]: Could not load 'plugins/PL-Hide-1.5.18.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:170) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:148) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:389) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:251) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1065) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:289) ~[patched_1.16.5.jar:git-Paper-594]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.util.zip.ZipException: zip END header not found
+	at java.util.zip.ZipFile$Source.zerror(ZipFile.java:1581) ~[?:?]
+	at java.util.zip.ZipFile$Source.findEND(ZipFile.java:1476) ~[?:?]
+	at java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1483) ~[?:?]
+	at java.util.zip.ZipFile$Source.<init>(ZipFile.java:1288) ~[?:?]
+	at java.util.zip.ZipFile$Source.get(ZipFile.java:1251) ~[?:?]
+	at java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:732) ~[?:?]
+	at java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:849) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:247) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:177) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:348) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:319) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:285) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:158) ~[patched_1.16.5.jar:git-Paper-594]
+	... 6 more
+[15:45:13] [Server thread/ERROR]: Could not load 'plugins/InvSeePlugin.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:170) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:148) ~[patched_1.16.5.jar:git-Paper-594]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:389) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:251) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1065) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:289) ~[patched_1.16.5.jar:git-Paper-594]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.util.zip.ZipException: zip END header not found
+	at java.util.zip.ZipFile$Source.zerror(ZipFile.java:1581) ~[?:?]
+	at java.util.zip.ZipFile$Source.findEND(ZipFile.java:1476) ~[?:?]
+	at java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1483) ~[?:?]
+	at java.util.zip.ZipFile$Source.<init>(ZipFile.java:1288) ~[?:?]
+	at java.util.zip.ZipFile$Source.get(ZipFile.java:1251) ~[?:?]
+	at java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:732) ~[?:?]
+	at java.util.zip.ZipFile$CleanableResource.get(ZipFile.java:849) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:247) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:177) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:348) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:319) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:285) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:158) ~[patched_1.16.5.jar:git-Paper-594]
+	... 6 more
+[15:45:13] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15:45:17] [Server thread/WARN]: Legacy plugin SimpleBackup v1.8 does not specify an api-version.
+[15:45:18] [Server thread/INFO]: [SimpleBackup] Loading SimpleBackup v1.8
+[15:45:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.4+5723-e3bfc64
+[15:45:18] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@33854d28]
+[15:45:18] [Server thread/INFO]: [Timber] Loading Timber v1.0.9
+[15:45:18] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.2.0
+[15:45:18] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
+[15:45:18] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.4+f7ff984
+[15:45:18] [Server thread/INFO]: [Skript] Loading Skript v2.5
+[15:45:18] [Server thread/INFO]: [SkQuery] Loading SkQuery v4.1.3
+[15:45:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:45:18] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.4+5723-e3bfc64
+[15:45:18] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:45:19] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[15:45:19] [Server thread/INFO]: Preparing level "world"
+[15:45:20] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:45:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:45:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:45:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:45:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:45:20] [Server thread/INFO]: Max TNT Explosions: 100
+[15:45:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:45:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:45:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:45:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:45:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:45:20] [Server thread/INFO]: View Distance: 10
+[15:45:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:45:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:45:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:45:20] [Server thread/INFO]: Mob Spawn Range: 6
+[15:45:20] [Server thread/ERROR]: Could not save paper.yml
+java.io.FileNotFoundException: paper.yml (Permission denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:67) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperConfig.readConfig(PaperConfig.java:122) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperWorldConfig.init(PaperWorldConfig.java:41) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperWorldConfig.<init>(PaperWorldConfig.java:35) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.World.<init>(World.java:186) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.WorldServer.<init>(WorldServer.java:324) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:550) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:280) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1065) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:289) ~[patched_1.16.5.jar:git-Paper-594]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[15:45:20] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:45:20] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:45:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:45:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:45:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:45:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:45:20] [Server thread/INFO]: Max TNT Explosions: 100
+[15:45:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:45:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:45:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:45:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:45:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:45:20] [Server thread/INFO]: View Distance: 10
+[15:45:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:45:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:45:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:45:20] [Server thread/INFO]: Mob Spawn Range: 6
+[15:45:20] [Server thread/ERROR]: Could not save paper.yml
+java.io.FileNotFoundException: paper.yml (Permission denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:67) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperConfig.readConfig(PaperConfig.java:122) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperWorldConfig.init(PaperWorldConfig.java:41) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperWorldConfig.<init>(PaperWorldConfig.java:35) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.World.<init>(World.java:186) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.WorldServer.<init>(WorldServer.java:324) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:557) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:280) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1065) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:289) ~[patched_1.16.5.jar:git-Paper-594]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[15:45:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:45:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:45:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:45:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:45:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:45:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:45:20] [Server thread/INFO]: Max TNT Explosions: 100
+[15:45:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:45:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:45:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:45:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:45:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:45:20] [Server thread/INFO]: View Distance: 10
+[15:45:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:45:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:45:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:45:20] [Server thread/INFO]: Mob Spawn Range: 6
+[15:45:20] [Server thread/ERROR]: Could not save paper.yml
+java.io.FileNotFoundException: paper.yml (Permission denied)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:67) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperConfig.readConfig(PaperConfig.java:122) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperWorldConfig.init(PaperWorldConfig.java:41) ~[patched_1.16.5.jar:git-Paper-594]
+	at com.destroystokyo.paper.PaperWorldConfig.<init>(PaperWorldConfig.java:35) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.World.<init>(World.java:186) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.WorldServer.<init>(WorldServer.java:324) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:557) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:280) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1065) ~[patched_1.16.5.jar:git-Paper-594]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:289) ~[patched_1.16.5.jar:git-Paper-594]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[15:45:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:45:22] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[15:45:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:23] [Server thread/INFO]: Time elapsed: 2043 ms
+[15:45:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:45:23] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[15:45:23] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:23] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:24] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:24] [Server thread/INFO]: Preparing spawn area: 23%
+[15:45:24] [Server thread/INFO]: Time elapsed: 1662 ms
+[15:45:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:45:24] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[15:45:24] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:24] [Server thread/INFO]: Time elapsed: 188 ms
+[15:45:24] [Server thread/INFO]: [SimpleBackup] Enabling SimpleBackup v1.8*
+[15:45:24] [Server thread/INFO]: [SimpleBackup] Worlds [CraftWorld{name=world}, CraftWorld{name=world_nether}, CraftWorld{name=world_the_end}] scheduled for backup.
+[15:45:24] [Server thread/INFO]: [SimpleBackup] Backup scheduled starting in 1.0 hours, repeat interval: 1.0 hours
+[15:45:24] [Server thread/INFO]: [SimpleBackup] Enabled.
+[15:45:24] [Server thread/INFO]: [Timber] Enabling Timber v1.0.9
+[15:45:24] [Server thread/INFO]: Timber Log Materials: [BIRCH_LOG, SPRUCE_LOG, JUNGLE_LOG, ACACIA_LOG, OAK_LOG, DARK_OAK_LOG]
+[15:45:24] [Server thread/INFO]: Timber Axe Materials: [WOODEN_AXE, NETHERITE_AXE, IRON_AXE, DIAMOND_AXE, STONE_AXE, GOLDEN_AXE]
+[15:45:24] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.0
+[15:45:24] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
+[15:45:25] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
+[15:45:25] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.2.2-b812" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[15:45:25] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[15:45:25] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[15:45:25] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15:45:25] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[15:45:25] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.4+f7ff984
+[15:45:26] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:45:26] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:45:26] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[15:45:26] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[15:45:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:45:26] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[15:45:26] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[15:45:26] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[15:45:26] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[15:45:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[15:45:26] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[15:45:26] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[15:45:26] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[15:45:26] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[15:45:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[15:45:26] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:45:26] [Server thread/INFO]: [Skript] Enabling Skript v2.5
+[15:45:27] [ForkJoinPool.commonPool-worker-3/INFO]: [Skript] A new version of Skript is available: 2.5.3 (you're currently running 2.5)
+[15:45:27] [ForkJoinPool.commonPool-worker-3/INFO]: Download it at: <aqua><u><link:https://github.com/SkriptLang/Skript/releases/download/2.5.3/Skript.jar>https://github.com/SkriptLang/Skript/releases/download/2.5.3/Skript.jar
+[15:45:33] [Server thread/INFO]: [Skript] Loaded 128188 aliases in 6808ms
+[15:45:34] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[15:45:34] [Server thread/INFO]: [SkQuery] Enabling SkQuery v4.1.3
+[15:45:34] [Server thread/INFO]: [skQuery] Locating classes from SkQuery...
+[15:45:34] [Server thread/INFO]: [skQuery] Beginning to process a total of 139 from SkQuery
+[15:45:34] [Server thread/INFO]: [skQuery] Out of 139 classes, 137 classes were loaded from SkQuery
+[15:45:34] [Server thread/INFO]: Starting remote control listener
+[15:45:34] [Server thread/INFO]: Thread RCON Listener started
+[15:45:34] [Server thread/INFO]: RCON running on 0.0.0.0:65535
+[15:45:34] [Server thread/INFO]: Running delayed init tasks
+[15:45:34] [Server thread/INFO]: [Skript] Loading variables...
+[15:45:34] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[15:45:34] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[15:45:34] [Server thread/WARN]: [Skript] No scripts were found, maybe you should write some ;) (config.sk, line 188: databases:')
+[15:45:34] [Server thread/INFO]: [Skript] Finished loading.
+[15:45:34] [Server thread/INFO]: Done (22.395s)! For help, type "help"
+[15:45:34] [Server thread/INFO]: Timings Reset
+[15:45:34] [Server thread/INFO]: [SuperVanish] Your current version of SuperVanish is outdated - New version: '6.2.3'; Currently: '6.2.0'
+[15:45:37] [User Authenticator #1/INFO]: UUID of player SryForBeingGray is af6718ae-82b8-4c41-a28e-a555707fa868
+[15:45:37] [Server thread/INFO]: SryForBeingGray joined the game
+[15:45:37] [Server thread/INFO]: SryForBeingGray[/178.112.27.231:38758] logged in with entity id 144 at ([world]-1006.5783549931607, 83.99313568238239, 92.26908237350325)
+[15:45:41] [Server thread/INFO]: SryForBeingGray issued server command: /mv list
+[15:45:48] [Server thread/INFO]: SryForBeingGray issued server command: /mv tp SryForBeingGray spawn
+[15:49:15] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode creative
+[15:52:56] [Server thread/INFO]: SryForBeingGray lost connection: Disconnected
+[15:52:56] [Server thread/INFO]: SryForBeingGray left the game
+[15:59:19] [User Authenticator #2/INFO]: UUID of player EvilAntiSmiley is c811ffa1-cfcd-44bf-a87c-64a8a0cc7518
+[15:59:19] [Server thread/INFO]: EvilAntiSmiley joined the game
+[15:59:19] [Server thread/INFO]: EvilAntiSmiley[/178.112.27.231:58369] logged in with entity id 1082 at ([world]-1016.6947433978769, 100.35554997974164, 76.44940409002965)
+[15:59:21] [Server thread/INFO]: EvilAntiSmiley fell from a high place
+[15:59:57] [Async Chat Thread - #0/INFO]: [world]<EvilAntiSmiley> gamemode creative
+[16:00:10] [Server thread/INFO]: EvilAntiSmiley issued server command: /gamemode creative
+[16:03:30] [Server thread/WARN]: Horse (vehicle of EvilAntiSmiley) moved wrongly! 0.48776575842521197
+[16:04:08] [Server thread/WARN]: Horse (vehicle of EvilAntiSmiley) moved wrongly! 0.3830668631252365
+[16:04:08] [Server thread/WARN]: Horse (vehicle of EvilAntiSmiley) moved wrongly! 0.8046398477671062
+[16:04:48] [Server thread/INFO]: EvilAntiSmiley lost connection: Disconnected
+[16:04:48] [Server thread/INFO]: EvilAntiSmiley left the game
+[16:45:34] [Server thread/INFO]: [SimpleBackup] Backup starting
+[16:45:34] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[16:45:34] [Craft Scheduler Thread - 17/INFO]: [SimpleBackup] Backing up ./world
+[16:45:43] [Craft Scheduler Thread - 17/INFO]: [SimpleBackup] Backing up ./world_nether
+[16:45:45] [Craft Scheduler Thread - 17/INFO]: [SimpleBackup] Backing up ./world_the_end
+[16:45:45] [Server thread/INFO]: [SimpleBackup] Backup completed
+[17:15:32] [User Authenticator #3/INFO]: UUID of player EvilAntiSmiley is c811ffa1-cfcd-44bf-a87c-64a8a0cc7518
+[17:15:32] [Server thread/INFO]: EvilAntiSmiley joined the game
+[17:15:32] [Server thread/INFO]: EvilAntiSmiley[/178.112.27.231:58769] logged in with entity id 2361 at ([world]-1015.9536240359898, 69.0, 99.8339157037678)
+[17:15:50] [Server thread/INFO]: EvilAntiSmiley issued server command: /gamemode creative
+[17:20:45] [Server thread/INFO]: EvilAntiSmiley lost connection: Disconnected
+[17:20:45] [Server thread/INFO]: EvilAntiSmiley left the game
+[17:37:42] [User Authenticator #4/INFO]: UUID of player EvilAntiSmiley is c811ffa1-cfcd-44bf-a87c-64a8a0cc7518
+[17:37:42] [Server thread/INFO]: EvilAntiSmiley joined the game
+[17:37:42] [Server thread/INFO]: EvilAntiSmiley[/178.112.27.231:58903] logged in with entity id 3063 at ([world]-1003.3920217814143, 93.98179295503277, 83.1455135724265)
+[17:37:56] [Server thread/INFO]: EvilAntiSmiley issued server command: /gamemode creative
+[17:44:40] [Server thread/INFO]: EvilAntiSmiley has completed the challenge [Cover Me in Debris]
+[17:45:34] [Server thread/INFO]: [SimpleBackup] Backup starting
+[17:45:34] [Craft Scheduler Thread - 33/INFO]: [SimpleBackup] Backing up ./world
+[17:45:43] [Craft Scheduler Thread - 33/INFO]: [SimpleBackup] Backing up ./world_nether
+[17:45:45] [Craft Scheduler Thread - 33/INFO]: [SimpleBackup] Backing up ./world_the_end
+[17:45:45] [Server thread/INFO]: [SimpleBackup] Backup completed
+[18:21:52] [User Authenticator #5/INFO]: UUID of player SryForBeingGray is af6718ae-82b8-4c41-a28e-a555707fa868
+[18:21:52] [Server thread/INFO]: SryForBeingGray joined the game
+[18:21:53] [Server thread/INFO]: SryForBeingGray[/178.165.129.222:45705] logged in with entity id 7276 at ([world]-999.4593660920809, 78.36819527715333, 87.96853640520747)
+[18:22:11] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode creative
+[18:26:10] [User Authenticator #6/INFO]: UUID of player FranzPeterLustig is 7fac3a97-b9ef-4130-95c4-56f17c787212
+[18:26:10] [Server thread/INFO]: FranzPeterLustig joined the game
+[18:26:10] [Server thread/INFO]: FranzPeterLustig[/178.165.129.1:43818] logged in with entity id 7760 at ([world]-973.685698445756, 76.05220011956017, 58.63350391014331)
+[18:26:46] [Server thread/INFO]: FranzPeterLustig issued server command: /gamemode creative
+[18:27:44] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[18:35:28] [Server thread/INFO]: SryForBeingGray issued server command: //wand
+[18:35:53] [Server thread/INFO]: SryForBeingGray issued server command: //expand vert
+[18:36:10] [Server thread/INFO]: SryForBeingGray issued server command: //replace minecraft:podzol minecraft:grass
+[18:36:21] [Server thread/INFO]: SryForBeingGray issued server command: //undo
+[18:36:33] [Server thread/INFO]: SryForBeingGray issued server command: //replace minecraft:podzol 2
+[18:38:10] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[18:38:16] [Server thread/INFO]: SryForBeingGray issued server command: /tp FranzPeterLustig
+[18:40:01] [Server thread/INFO]: SryForBeingGray issued server command: //pos1
+[18:40:07] [Server thread/INFO]: SryForBeingGray issued server command: //pos2
+[18:40:09] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:40:58] [Server thread/INFO]: SryForBeingGray issued server command: /tp EvilAntiSmiley SryForBeingGray
+[18:41:03] [Server thread/INFO]: SryForBeingGray issued server command: /deop EvilAntiSmiley
+[18:41:13] [Server thread/INFO]: SryForBeingGray issued server command: /tp EvilAntiSmiley SryForBeingGray
+[18:41:23] [Server thread/INFO]: SryForBeingGray issued server command: /tp EvilAntiSmiley SryForBeingGray
+[18:42:26] [Server thread/INFO]: SryForBeingGray issued server command: /tp EvilAntiSmiley SryForBeingGray
+[18:43:08] [Server thread/INFO]: SryForBeingGray issued server command: /effect give SryForBeingGray minecraft:speed 222 2
+[18:43:34] [Server thread/INFO]: SryForBeingGray issued server command: //pos1
+[18:44:54] [Server thread/INFO]: SryForBeingGray issued server command: //pos2
+[18:44:57] [Server thread/INFO]: SryForBeingGray issued server command: //expand vert
+[18:45:07] [Server thread/INFO]: SryForBeingGray issued server command: /rg define home2
+[18:45:13] [Server thread/INFO]: SryForBeingGray issued server command: /rg flag block
+[18:45:17] [Server thread/INFO]: SryForBeingGray issued server command: /rg flag home2 flo
+[18:45:26] [Server thread/INFO]: SryForBeingGray issued server command: /rg flag home2 block-break
+[18:45:26] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:45:29] [Server thread/INFO]: SryForBeingGray issued server command: /rg flag home2 block-place
+[18:45:34] [Server thread/INFO]: SryForBeingGray issued server command: /rg flag home2 block-break deny
+[18:45:34] [Server thread/INFO]: [SimpleBackup] Backup starting
+[18:45:35] [Craft Scheduler Thread - 50/INFO]: [SimpleBackup] Backing up ./world
+[18:45:36] [Server thread/INFO]: SryForBeingGray issued server command: /rg flag home2 block-place deny
+[18:45:41] [Server thread/INFO]: SryForBeingGray issued server command: /rg flag home2 pvp deny
+[18:45:45] [Craft Scheduler Thread - 50/INFO]: [SimpleBackup] Backing up ./world_nether
+[18:45:45] [Server thread/INFO]: SryForBeingGray issued server command: /rg flag home2 use deny
+[18:45:46] [Craft Scheduler Thread - 50/INFO]: [SimpleBackup] Backing up ./world_the_end
+[18:45:47] [Server thread/INFO]: [SimpleBackup] Backup completed
+[18:45:56] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:45:57] [Server thread/INFO]: SryForBeingGray issued server command: /rg flag home2 chest-access deny
+[18:46:23] [Server thread/INFO]: SryForBeingGray issued server command: /tp EvilAntiSmiley
+[18:46:26] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:46:33] [Server thread/INFO]: SryForBeingGray issued server command: /rg info
+[18:46:37] [Server thread/INFO]: SryForBeingGray issued server command: /rg info
+[18:46:44] [Server thread/INFO]: SryForBeingGray issued server command: /effect clear
+[18:48:45] [User Authenticator #7/INFO]: UUID of player SryForBeingGray is af6718ae-82b8-4c41-a28e-a555707fa868
+[18:48:45] [Server thread/INFO]: SryForBeingGray lost connection: You logged in from another location
+[18:48:45] [Server thread/INFO]: SryForBeingGray left the game
+[18:48:45] [Server thread/INFO]: SryForBeingGray joined the game
+[18:48:46] [Server thread/INFO]: SryForBeingGray[/178.112.27.231:41238] logged in with entity id 13122 at ([world]-1024.4683456355656, 93.6317365854811, 53.837146908230125)
+[18:48:50] [Server thread/WARN]: SryForBeingGray was kicked for floating too long!
+[18:48:50] [Server thread/INFO]: SryForBeingGray lost connection: Flying is not enabled on this server
+[18:48:50] [Server thread/INFO]: SryForBeingGray left the game
+[18:48:57] [User Authenticator #7/INFO]: UUID of player SryForBeingGray is af6718ae-82b8-4c41-a28e-a555707fa868
+[18:48:57] [Server thread/INFO]: SryForBeingGray joined the game
+[18:48:57] [Server thread/INFO]: SryForBeingGray[/178.112.27.231:41247] logged in with entity id 13155 at ([world]-1022.3168578915777, 90.47486413894751, 55.07791115012678)
+[18:49:23] [Server thread/INFO]: SryForBeingGray fell from a high place
+[18:49:27] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode 1
+[18:49:29] [Server thread/INFO]: SryForBeingGray issued server command: /gamemode creative
+[18:51:14] [Server thread/INFO]: SryForBeingGray issued server command: //wand
+[18:51:32] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[18:51:46] [Server thread/INFO]: FranzPeterLustig has made the advancement [Ice Bucket Challenge]
+[18:52:09] [Server thread/INFO]: SryForBeingGray issued server command: //replace cobblestone_stairs polished_diorite_stairs
+[18:52:15] [Server thread/INFO]: SryForBeingGray issued server command: //replace cobblestone_stairs polished_diorite_stairs:2
+[18:52:30] [Server thread/INFO]: SryForBeingGray issued server command: //undo
+[18:52:32] [Server thread/INFO]: SryForBeingGray issued server command: //replace cobblestone_stairs polished_diorite_stairs:2
+[18:52:34] [Server thread/INFO]: SryForBeingGray issued server command: //replace cobblestone_stairs polished_diorite_stairs:3
+[18:52:41] [Server thread/INFO]: SryForBeingGray issued server command: //replace cobblestone_stairs polished_diorite_stairs
+[18:52:51] [Server thread/INFO]: SryForBeingGray issued server command: /op EvilAntiSmiley
+[18:53:44] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone,grass,5 polished_diorite
+[18:53:58] [Server thread/INFO]: SryForBeingGray issued server command: //replace 2,dirt polished_diorite
+[18:55:08] [Server thread/INFO]: SryForBeingGray issued server command: //pos1
+[18:55:14] [Server thread/INFO]: SryForBeingGray issued server command: //pos2
+[18:55:15] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:55:46] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:55:48] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:55:50] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:55:52] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:55:54] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:56:26] [Server thread/INFO]: SryForBeingGray issued server command: //pos2
+[18:56:27] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:56:44] [Server thread/INFO]: SryForBeingGray issued server command: //pos1
+[18:56:45] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:57:20] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:57:22] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:57:24] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:57:27] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[18:57:37] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[18:57:44] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[18:58:01] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[18:58:11] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[18:58:12] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[18:58:16] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[18:58:26] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[18:58:28] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[18:58:29] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[18:58:31] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[18:58:53] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone grass
+[18:59:00] [Server thread/INFO]: SryForBeingGray issued server command: //undo
+[18:59:02] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[18:59:04] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:00:18] [Server thread/INFO]: SryForBeingGray issued server command: //pos1
+[19:00:29] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:00:43] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:00:46] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:01:59] [Server thread/INFO]: SryForBeingGray issued server command: /gamerule randomTickSpeed 1000
+[19:02:01] [Server thread/INFO]: SryForBeingGray issued server command: /gamerule randomTickSpeed 3
+[19:02:11] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[19:02:22] [Server thread/INFO]: SryForBeingGray issued server command: /give SryForBeingGray barrier
+[19:05:02] [Server thread/INFO]: SryForBeingGray issued server command: /tp EvilAntiSmiley
+[19:05:24] [Server thread/INFO]: SryForBeingGray issued server command: /tp EvilAntiSmiley SryForBeingGray
+[19:07:53] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[19:08:35] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[19:08:46] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[19:08:49] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[19:08:54] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[19:08:58] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[19:09:01] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[19:09:05] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[19:10:20] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[19:10:22] [Server thread/INFO]: SryForBeingGray issued server command: //set 2
+[19:10:58] [Server thread/INFO]: SryForBeingGray issued server command: //pos1
+[19:11:07] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:11:16] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:11:18] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:11:21] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:14:38] [Server thread/INFO]: SryForBeingGray issued server command: /butcher
+[19:14:42] [Server thread/INFO]: SryForBeingGray issued server command: /time set day
+[19:14:43] [Server thread/INFO]: SryForBeingGray issued server command: /butcher
+[19:16:14] [Server thread/INFO]: SryForBeingGray issued server command: //set glass_pane:2
+[19:16:16] [Server thread/INFO]: SryForBeingGray issued server command: //set glass_pane
+[19:16:34] [Server thread/INFO]: SryForBeingGray issued server command: //set glass_pane
+[19:16:50] [Server thread/INFO]: SryForBeingGray issued server command: //set glass_pane
+[19:17:17] [Server thread/INFO]: SryForBeingGray issued server command: //set glass_pane
+[19:18:36] [Server thread/INFO]: SryForBeingGray issued server command: //copy
+[19:18:43] [Server thread/INFO]: SryForBeingGray issued server command: //paste
+[19:18:50] [Server thread/INFO]: SryForBeingGray issued server command: //undo
+[19:19:19] [Server thread/INFO]: SryForBeingGray issued server command: //walls glass_pane
+[19:24:26] [Server thread/INFO]: SryForBeingGray issued server command: //set glass_pane
+[19:24:32] [Server thread/INFO]: SryForBeingGray issued server command: //undo
+[19:24:37] [Server thread/INFO]: SryForBeingGray issued server command: //walls glass_pane
+[19:25:28] [Server thread/INFO]: SryForBeingGray issued server command: //walls glass_pane
+[19:26:05] [Server thread/INFO]: SryForBeingGray issued server command: //walls glass_pane
+[19:26:58] [Server thread/INFO]: SryForBeingGray issued server command: //walls glass_pane
+[19:27:24] [Server thread/INFO]: SryForBeingGray issued server command: /clear
+[19:27:27] [Server thread/INFO]: SryForBeingGray issued server command: /tp EvilAntiSmiley
+[19:34:43] [Server thread/INFO]: SryForBeingGray issued server command: /tp EvilAntiSmiley SryForBeingGray
+[19:34:48] [Server thread/INFO]: SryForBeingGray issued server command: /tp FranzPeterLustig
+[19:36:22] [Server thread/INFO]: SryForBeingGray issued server command: //wand
+[19:36:29] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:36:39] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:36:45] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:36:49] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:36:51] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:36:54] [Server thread/INFO]: SryForBeingGray issued server command: //replace stone 2
+[19:37:30] [Server thread/INFO]: SryForBeingGray issued server command: //replace andesite,diorite,stone 2
+[19:37:34] [Server thread/INFO]: SryForBeingGray issued server command: //replace andesite,diorite,stone 2
+[19:37:35] [Server thread/INFO]: SryForBeingGray issued server command: //replace andesite,diorite,stone 2
+[19:38:09] [Server thread/INFO]: SryForBeingGray issued server command: //pos2
+[19:38:10] [Server thread/INFO]: SryForBeingGray issued server command: //replace andesite,diorite,stone 2
+[19:38:14] [Server thread/INFO]: SryForBeingGray issued server command: //replace andesite,diorite,stone 2
+[19:38:17] [Server thread/INFO]: SryForBeingGray issued server command: //replace andesite,diorite,stone 2
+[19:38:19] [Server thread/INFO]: SryForBeingGray issued server command: //replace andesite,diorite,stone 2
+[19:38:25] [Server thread/INFO]: SryForBeingGray issued server command: //replace andesite,diorite,stone 2
+[19:38:28] [Server thread/INFO]: SryForBeingGray issued server command: //replace andesite,diorite,stone 2
+[19:41:54] [Server thread/INFO]: SryForBeingGray issued server command: //wand
+[19:42:11] [Server thread/INFO]: SryForBeingGray issued server command: //pos1
+[19:42:15] [Server thread/INFO]: SryForBeingGray issued server command: //pos2
+[19:42:31] [Server thread/INFO]: SryForBeingGray issued server command: //set 0
+[19:42:53] [Server thread/INFO]: SryForBeingGray issued server command: //replace 2 polished_diorite
+[19:43:10] [Server thread/INFO]: SryForBeingGray issued server command: //replace 2 polished_diorite
+[19:43:30] [Server thread/INFO]: SryForBeingGray issued server command: //replace 2 polished_diorite
+[19:43:32] [Server thread/INFO]: SryForBeingGray issued server command: //replace 2 polished_diorite
+[19:43:34] [Server thread/INFO]: SryForBeingGray issued server command: //replace 2 polished_diorite
+[19:45:02] [Server thread/INFO]: FranzPeterLustig issued server command: /gamemode survival
+[19:45:11] [Server thread/INFO]: FranzPeterLustig fell from a high place
+[19:45:23] [Server thread/INFO]: SryForBeingGray issued server command: /tp FranzPeterLustig SryForBeingGray
+[19:45:34] [Server thread/INFO]: [SimpleBackup] Backup starting
+[19:45:34] [Craft Scheduler Thread - 66/INFO]: [SimpleBackup] Backing up ./world
+[19:45:41] [Craft Scheduler Thread - 66/WARN]: [SimpleBackup] Unable to backup file: /opt/minecraft/server/./world/region/r.5.-1.mca(No space left on device)
+[19:45:41] [Craft Scheduler Thread - 66/WARN]: [SimpleBackup] No space left on device
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:?]
+	at java.io.FileOutputStream.write(FileOutputStream.java:354) ~[?:?]
+	at java.util.zip.DeflaterOutputStream.deflate(DeflaterOutputStream.java:253) ~[?:?]
+	at java.util.zip.ZipOutputStream.closeEntry(ZipOutputStream.java:256) ~[?:?]
+	at java.util.zip.ZipOutputStream.putNextEntry(ZipOutputStream.java:193) ~[?:?]
+	at com.exolius.simp

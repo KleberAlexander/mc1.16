@@ -1,0 +1,28 @@
+[Unit]
+Description=Minecraft Server
+
+Wants=network.target
+After=network.target
+
+[Service]
+User=minecraft
+Group=minecraft
+Nice=-20
+EnvironmentFile=-/opt/minecraft/unit.conf
+KillMode=none
+SuccessExitStatus=0 1
+
+ProtectHome=true
+ProtectSystem=false
+PrivateDevices=true
+NoNewPrivileges=true
+PrivateTmp=true
+InaccessibleDirectories=/bin /boot /mnt /sbin /root /sys /srv -/var /media -/lost+found
+ReadWriteDirectories=/opt/minecraft/server
+WorkingDirectory=/opt/minecraft/server
+ExecStart=/usr/lib/jvm/java-11-openjdk-amd64/bin/java -Xmx8192M -Xms8192M -jar server.jar
+ExecStop=/opt/minecraft/server/mcrcon -H localhost -P 65535 -p Monopoly stop
+
+[Install]
+WantedBy=multi-user.target
+
